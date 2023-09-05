@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JV9Yb9gVkrckea5AZKA/p3r2Tz8jqUCspLqTJB42MHBJ+5cyjR6CgajQRMxg+Y8rg6acv0/U9soWXEZR114WMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ben1a\\OneDrive\\Documents\\Job\\KDG Technical Interview\\Exercise\\SampleExercises\\SampleExercises.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ben1a\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
